@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I study electrical and electronics engineering.
 - 🌱 I’m currently learning PHYTON.
 - 📫 How to reach me: betularslan709@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ I made a console project in Python, consisting of the main menu and modules, various calculations and a few games. You can check it out from the "console project" repository.
 
